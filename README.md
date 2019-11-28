@@ -1,2 +1,0 @@
-# VMGAssessment
-Created with CodeSandbox
